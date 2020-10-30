@@ -1,0 +1,17 @@
+{
+    "name": "fitov/clubdepv3",
+    "description": "Proyecto club deportivo version 3",
+    "type": "proyect",
+    "authors": [
+        {
+            "name": "VenturaRodolfo",
+            "email": "71725994+VenturaRodolfo@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.11",
+        "illuminate/events": "^8.11",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
